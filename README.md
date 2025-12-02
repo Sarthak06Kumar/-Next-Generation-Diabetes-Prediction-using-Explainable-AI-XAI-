@@ -1,4 +1,4 @@
-<img width="1890" height="903" alt="image" src="https://github.com/user-attachments/assets/b6f00c8b-47e3-4be2-a12c-33011f140f58" />🚀 Next-Generation Diabetes Prediction using Explainable AI (XAI)
+🚀 Next-Generation Diabetes Prediction using Explainable AI (XAI)
 
 A Machine Learning + XAI Powered Healthcare Prediction System
 
